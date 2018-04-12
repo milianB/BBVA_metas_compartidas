@@ -1,5 +1,9 @@
 # BBVA: Metas compartidas. 
 
+![30582262_1982602765125584_2105804993301839872_n](https://user-images.githubusercontent.com/32876098/38649626-5a009e36-3dbd-11e8-9834-977345db3d6a.png)
+
+Producto hecho para **Laboratoria Mx** 
+
 * Especialidad: UX Designer
 * Sprint 05
 * Duración: 3 semanas
@@ -29,6 +33,32 @@ Entramos al Sprint 05 en Laboratoria MX y el reto como UX Designers es investiga
 # ESTRUCTURANDO SOLUCIÓN 
 
 Una vez formados los equipos y adignados los perfiles que ocuparía cada integrantes, asignamos tareas que van enfocadas a investigar cómo funciona en el presente la app a optimizar y para lograrlo nos apoyamos de la siguiente estructura:
+
+## ENTENDIENDO A NUESTRO CLIENTE: BBVA BANCOMER
+
+(FODA-PESTEL-PARETOS)
+
+## ENTENDIENDO A USUARIOS: 
+
+ **Coustomer Journey Map**
+ 
+ ![journey-01](https://user-images.githubusercontent.com/32876098/38649640-715d9566-3dbd-11e8-883e-c170ab3471d8.jpg)
+ 
+**Construir Mapa de Empatía**
+
+![untitled-2-01](https://user-images.githubusercontent.com/32876098/38650132-cea377a2-3dbf-11e8-9063-2b92dffb5587.jpg)
+
+**Definir al usuario**
+
+Nuestro usuario a validar será el siguiente: 
+
+![user-persona](https://user-images.githubusercontent.com/32876098/38649637-6661d6c2-3dbd-11e8-92f9-849f44bb42c7.jpg)
+
+Definir objetivo para solución
+Crear hipótesis a validar
+Validar solución
+
+5.1 Crear instrumento
 
 
 1. **Research Goal:** ¿Cuál es el objetivo de la investigación? ¿Cuáles son las suposiciones / preguntas que serán validadas?
@@ -70,3 +100,17 @@ Es decir: ¿entrevista de usuario, prueba de usuario, grupo de enfoque, consulta
 **Budget:**
       
 3.  
+
+## CREANDO SOLUCIÓN 
+
+![new_mockup_1](https://user-images.githubusercontent.com/32876098/38649642-76c56f56-3dbd-11e8-9585-581d1dba4575.png)
+
+![wireframe2](https://user-images.githubusercontent.com/32876098/38649645-79f3b20a-3dbd-11e8-917c-12e779898f10.png)
+
+Implementar solución: landingPage
+Feedback del producto
+8.1 Clase
+8.2 Testeando con usuarios en tiempo real: Hotjar
+8.3 Mejorando producto: insigths
+Implementar solución: V2 ViajandoAndo
+Presentación de solución: Open House
