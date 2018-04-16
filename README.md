@@ -29,7 +29,7 @@ Entramos al Sprint 05 en Laboratoria MX y el reto como UX Designers es investiga
       * Presentación de la investigación sobre la oportunidad de añadir esta funcionalidad de app y el proceso que se vivió durante las tres semanas.
  * **Team:** 7 integrantes 
 
-# ESTRUCTURANDO SOLUCIÓN 
+## ESTRUCTURANDO SOLUCIÓN 
 
 Una vez formados los equipos y adignados los perfiles que ocuparía cada integrantes, asignamos tareas que van enfocadas a investigar cómo funciona en el presente la app a optimizar y para lograrlo nos apoyamos de la siguiente estructura:
 
