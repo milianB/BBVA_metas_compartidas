@@ -1,4 +1,4 @@
-# BBVA: Metas compartidas. 
+# BBVA: Metas compartidas
 
 ![30582262_1982602765125584_2105804993301839872_n](https://user-images.githubusercontent.com/32876098/38649626-5a009e36-3dbd-11e8-9834-977345db3d6a.png)
 
